@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "animejs": "^3.2.1",
+    "reveal.js": "^4.2.1"
+  }
+}
